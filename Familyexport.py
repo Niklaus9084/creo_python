@@ -6,9 +6,9 @@ import tkinter
 from tkinter import scrolledtext, messagebox, filedialog, Tk, Button, Entry, Label
 import os
 
-CREO_APP = 'C:/PTC/Creo 2.0/Parametric/bin/parametric.exe'
-PART_DIR = 'D:/mydoc/creo_python/fin.prt'
-OUTPUT_DIR = 'D:/test/'
+CREO_APP = 'C:/Program Files/PTC/Creo 6.0.0.0/Parametric/bin/parametric.exe'
+PART_DIR = 'E:/00A30/002testvbapi/6800_frame'
+OUTPUT_DIR = 'E:/00A30/002testvbapi/6800_frame'
 
 win = Tk()
 win.title("批量将文件的族表对象导出到文件")

@@ -4,8 +4,8 @@ from win32com import client
 import VBAPI
 import os
 from tkinter import scrolledtext, messagebox, filedialog, Tk, Button, Entry, Label
-CREO_APP = 'C:/PTC/Creo 2.0/Parametric/bin/parametric.exe'
-INPUT_DIR = 'D:/test/'
+CREO_APP = 'C:/Program Files/PTC/Creo 6.0.0.0/Parametric/bin/parametric.exe'
+INPUT_DIR = 'E:/00A30/002testvbapi/6800_frame'
 
 win = Tk()
 win.title("批量关系操作")

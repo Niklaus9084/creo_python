@@ -2,6 +2,7 @@ CCpfcAsyncConnection = '{456E0110-2031-3907-AFE5-9201C97A915E}'
 CCpfcModelDescriptor = '{74D4E90E-031B-3734-8CE1-36D5730A6728}'
 CCpfcRetrieveModelOptions = '{2264B49E-C652-384F-AB53-71B57DA275BE}'
 Cstringseq = '{CED94891-3E3C-33AC-978A-F2A50C45BCCD}'
+CMpfcModelItem = '{E89F2455-D504-3A06-A207-5D6C0D755E56}'
 
 class constants:
 	EpfcARG_V_ASCII_STRING        =3          # from enum EpfcArgValueType
